@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>wether App</title>
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <section class="card">
+      <h1>Wether App</h1>
+      <div class="input-container">
+        <label for="search">
+          <input
+            type="text"
+            placeholder="Enter the City name"
+            id="input-city"
+            spellcheck="true"
+          />
+          <button class="search-btn">Search</button>
+        </label>
+      </div>
+      <div class="error">
+        <p>Invalid City Name</p>
+      </div>
+      <div class="weather">
+        <p class="city-name">Peshawar</p>
+        <div class="city-info">
+          <img src="" class="weather-icon" />
+          <p class="temp">35.08°C</p>
+        </div>
+        <p class="feels-like">feels_like: 39.35</p>
+      </div>
+    </section>
+  </body>
+  <script src="script.js"></script>
+</html>
