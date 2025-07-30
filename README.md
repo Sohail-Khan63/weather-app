@@ -4,8 +4,7 @@ The **Weather App** is a simple, user-friendly web application that provides rea
 
 ## Live Demo
 
-[Click here to Preview](weather-app-sohailkhan.netlify.app)
-
+Click here to preview <a href="weather-app-sohailkhan.netlify.app">weather-app-sohailkhan.netlify.app</a>
 ## Features
 
 - Search any city worldwide
